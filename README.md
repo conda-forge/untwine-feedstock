@@ -1,11 +1,11 @@
-About untwine
-=============
+About untwine-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/untwine-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hobuinc/untwine
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/untwine-feedstock/blob/main/LICENSE.txt)
 
 Summary: A command line utility for generating EPT and COPC point cloud data
 
