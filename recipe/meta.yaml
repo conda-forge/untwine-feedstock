@@ -1,5 +1,5 @@
 {% set name = "untwine" %}
-{% set version = "1.0.0" %}
+{% set version = "1.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/hobuinc/untwine/archive/refs/tags/{{ version }}.tar.gz
-  sha256: ec998f87fd42d57cd7910d44ab900e591261c812bdedd6217f6a24afa8701c76
+  sha256: bb57ff485cdf588762b503edaeebd9d1db458095caaf64d95c3a4942a0c64a0a
 
 build:
-  number: 3
+  number: 0
 
 requirements:
 
