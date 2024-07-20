@@ -8,7 +8,7 @@ channel_targets:
 - conda-forge main
 cxx_compiler:
 - vs2019
-pdal:
+libpdal_core:
 - '2.7'
 target_platform:
 - win-64
