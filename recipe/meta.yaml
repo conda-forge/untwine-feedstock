@@ -10,7 +10,7 @@ source:
   sha256: 6dc1f6e3350745350413c3ea818f862d29ecaaaa35bf3b75e635a9260c9ccde3
 
 build:
-  number: 0
+  number: 1
 
 requirements:
 
@@ -22,9 +22,9 @@ requirements:
     - make
     - ninja
   host:
-    - pdal
+    - libpdal-core
   run:
-    - pdal
+    - libpdal-core
 test:
   commands:
     - untwine --version
